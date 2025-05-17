@@ -4,3 +4,5 @@ r-dplyr
 r-ggplot2
 r-plotly
 r-faker
+r-shiny
+r-shinythemes
