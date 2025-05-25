@@ -1,10 +1,12 @@
 install.packages(c(
+  "IRkernel",
   "caret",
   "tidymodels",
   "dplyr",
   "ggplot2",
   "plotly",
-  "faker",
+  "charlatan",
   "shiny",
   "shinythemes"
 ))
+IRkernel::installspec()
