@@ -1,0 +1,15 @@
+name: r-environment
+channels:
+  - conda-forge
+  - r
+dependencies:
+  - r-base=4.2
+  - r-irkernel
+  - r-caret
+  - r-tidymodels
+  - r-dplyr
+  - r-ggplot2
+  - r-plotly
+  - r-faker
+  - r-shiny
+  - r-shinythemes
