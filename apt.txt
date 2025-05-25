@@ -1,2 +1,3 @@
-r-base
-r-base-dev
+r-base=4:4.2.*
+r-base-dev=4:4.2.*
+libzmq3-dev
