@@ -1,3 +1,4 @@
 libzmq3-dev
 r-base
 r-base-dev
+software-properties-common
